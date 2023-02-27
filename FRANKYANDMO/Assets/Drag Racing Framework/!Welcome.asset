@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 993f0dd4446764a69a0f814742ffa316, type: 3}
+  m_Name: '!Welcome'
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 105addad65ec5496098ba065c45b3aac, type: 3}
+  title: Drag Racing Framework (v.1.3.2)
+  sections:
+  - heading: Welcome!
+    text: 
+    linkText: 
+    url: 
+  - heading: 
+    text: We the Gerc Studio team thank you so much for purchasing this framework!
+      Hopefully, it will help you in creating impressive games :)
+    linkText: 
+    url: 
+  - heading: 
+    text: 
+    linkText: 
+    url: 
+  - heading: Documentation
+    text: 
+    linkText: 
+    url: 
+  - heading: 
+    text: To read more about this kit and its features, look at the <b>"Manual.pdf"</b>
+      file or use the
+    linkText: Online Documentation
+    url: https://gerc-studio-2.gitbook.io/drag-racing/
+  - heading: 
+    text: Online documentation is preferable because it is updated more frequently
+      and has gif instructions as well as video tutorials.
+    linkText: 
+    url: 
+  - heading: 
+    text: 
+    linkText: 
+    url: 
+  - heading: Tooltips
+    text: 
+    linkText: 
+    url: 
+  - heading: 
+    text: "If you see a variable with this \xB0 symbol (for example - Speed\xB0),
+      hover over it to see a tooltip."
+    linkText: 
+    url: 
+  - heading: 
+    text: 
+    linkText: 
+    url: 
+  - heading: Support
+    text: 
+    linkText: 
+    url: 
+  - heading: 
+    text: 
+    linkText: 'Email: gercstudio@gmail.com'
+    url: mailto:gercstudio@gmail.com?subject=Drag%20Racing%20Framework%20-%20Question%20
+  - heading: 
+    text: 
+    linkText: Discord
+    url: https://discord.gg/fxmJSjD
+  - heading: 
+    text: 
+    linkText: Forum
+    url: https://forum.unity.com/threads/new-update-drag-racing-framework.1072658/
+  loadedLayout: 0
+  loadOnStart: 0

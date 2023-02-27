@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Drag Racing Framework/Demos/Basic Demo/!Scenes/Menu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
